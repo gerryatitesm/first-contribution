@@ -17,6 +17,6 @@ Full step-by-step instructions are in the course guide.
 
 ## Contributors 🌟
 
-> Add your name and a fun fact below. Keep one entry per line, anywhere in the list.
+* Rand Abou Saleh - I can paint!
 
 * Gerry Mijares - I cook incredible pizza 🍕
