@@ -20,3 +20,4 @@ Full step-by-step instructions are in the course guide.
 > Add your name and a fun fact below. Keep one entry per line, anywhere in the list.
 
 * Gerry Mijares - I cook incredible pizza 🍕
+* Jonathan Martin - I take bird photos
